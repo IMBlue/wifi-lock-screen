@@ -1,0 +1,8 @@
+c:\users\blue\documents\visual studio 2015\Projects\wifi-lock-screen\wifi-lock-screen\bin\Debug\wifi-lock-screen.exe
+c:\users\blue\documents\visual studio 2015\Projects\wifi-lock-screen\wifi-lock-screen\bin\Debug\wifi-lock-screen.pdb
+c:\users\blue\documents\visual studio 2015\Projects\wifi-lock-screen\wifi-lock-screen\obj\Debug\wifi-lock-screen.csprojResolveAssemblyReference.cache
+c:\users\blue\documents\visual studio 2015\Projects\wifi-lock-screen\wifi-lock-screen\obj\Debug\wifi_lock_screen.Properties.Resources.resources
+c:\users\blue\documents\visual studio 2015\Projects\wifi-lock-screen\wifi-lock-screen\obj\Debug\wifi-lock-screen.csproj.GenerateResource.Cache
+c:\users\blue\documents\visual studio 2015\Projects\wifi-lock-screen\wifi-lock-screen\obj\Debug\wifi-lock-screen.exe
+c:\users\blue\documents\visual studio 2015\Projects\wifi-lock-screen\wifi-lock-screen\obj\Debug\wifi-lock-screen.pdb
+c:\users\blue\documents\visual studio 2015\Projects\wifi-lock-screen\wifi-lock-screen\obj\Debug\wifi_lock_screen.Lock.resources
